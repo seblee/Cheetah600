@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroRegAddressLib><MacroRegAddress Name="beepEnable" OperationMode="0" DataType="bit" ArrayNumber="1"><Address Function="beepEnable" UseIndexAddr="0" ImportTag="Yes" Tag="beepEnable" NoWord="1" UseVaribleStationNum="0" VariblestationNum="1"/></MacroRegAddress><MacroRegAddress Name="beepEnableSys" OperationMode="1" DataType="bit" ArrayNumber="1"><Address Function="beepEnableSys" UseIndexAddr="0" ImportTag="Yes" Tag="beepEnableSys" NoWord="1" UseVaribleStationNum="0" VariblestationNum="1"/></MacroRegAddress></MacroRegAddressLib>
